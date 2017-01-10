@@ -1,0 +1,6 @@
+D:\SG\Learnings\DevOpsTestProject\DevOpsTestProject\bin\Debug\DevOpsTestProject.exe.config
+D:\SG\Learnings\DevOpsTestProject\DevOpsTestProject\bin\Debug\DevOpsTestProject.exe
+D:\SG\Learnings\DevOpsTestProject\DevOpsTestProject\bin\Debug\DevOpsTestProject.pdb
+D:\SG\Learnings\DevOpsTestProject\DevOpsTestProject\obj\Debug\DevOpsTestProject.csprojResolveAssemblyReference.cache
+D:\SG\Learnings\DevOpsTestProject\DevOpsTestProject\obj\Debug\DevOpsTestProject.exe
+D:\SG\Learnings\DevOpsTestProject\DevOpsTestProject\obj\Debug\DevOpsTestProject.pdb
