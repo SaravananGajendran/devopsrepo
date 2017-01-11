@@ -9,10 +9,6 @@ namespace DevOpsTestProject
             Console.WriteLine("SG");
             Console.WriteLine("SG");
             Console.WriteLine("SG");
-            Console.WriteLine("SG");
-            Console.WriteLine("SG");
-            Console.WriteLine("SG");
-            Console.WriteLine("SG");
         }
     }
 }
